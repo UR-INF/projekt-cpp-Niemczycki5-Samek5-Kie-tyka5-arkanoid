@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(115,38): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(115,26): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,48): warning C4244:         with
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,48): warning C4244:         [
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,48): warning C4244:             T=unsigned int
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,48): warning C4244:         ]
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,28): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,28): warning C4244:         with
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,28): warning C4244:         [
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,28): warning C4244:             T=unsigned int
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(118,28): warning C4244:         ]
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(311,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(311,56): warning C4244:         with
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(311,56): warning C4244:         [
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(311,56): warning C4244:             T=float
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(311,56): warning C4244:         ]
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(695,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(695,10): warning C4244:         with
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(695,10): warning C4244:         [
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(695,10): warning C4244:             T=float
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(695,10): warning C4244:         ]
+C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\BREAKOUT\Main.cpp(614): warning C4715: "BallDir”: niewszystkie ścieżki kodu zwracają wartość
+  BREAKOUT.vcxproj -> C:\Users\Damian\Downloads\GAME-230-BREAKOUT-master\GAME-230-BREAKOUT-master\x64\Debug\BREAKOUT.exe
